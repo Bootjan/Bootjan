@@ -3,8 +3,8 @@
 <img align="center" src="/metrics.plugin.topics.icons.svg" alt="Metrics" width="400">
 <h2>🐎A Few Quick Facts</h2>
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/Bootjan/ft_strace">my own version of strace using the ptrace c function</a></li>
-  <li>🌱 I’m currently learning to become a Software Engineer <a href="https://www.codam.nl">@Codam Coding College](/)</li>
+  <li>🔭 I’m currently working on <a href="https://github.com/Bootjan/ft_strace">my own version of strace</a> using the ptrace c function</li>
+  <li>🌱 I’m currently learning to become a Software Engineer <a href="https://www.codam.nl">@Codam Coding College</li>
   <li>📫 How to reach me: <a href="mailto:bote.schaafsma@gmail.com">bote.schaafsma@gmail.com</li>
 </ul>
 <h2>📚Languages and Technologies</h2>
