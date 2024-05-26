@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Bote Schaafsma</h1>
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<!-- <img align="center" src="/github-metrics.svg" alt="Metrics" width="400"> -->
 <img align="center" src="/metrics.plugin.topics.icons.svg" alt="Metrics" width="400">
 <h2>🐎A Few Quick Facts</h2>
 <ul>
