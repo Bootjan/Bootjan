@@ -13,4 +13,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bootjan&layout=compact)
 
 <!-- Optionally, you can customize the stats further -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bootjan&layout=compact&langs_count=10&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bootjan&langs_count=10&theme=tokyonight)
