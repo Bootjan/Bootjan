@@ -9,6 +9,12 @@
 </ul>
 <h2>📚Languages and Technologies</h2>
 <!--   <img align="left" alt="Rust" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg"/> -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bootjan&layout=compact)
+
+<!-- Optionally, you can customize the stats further -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bootjan&layout=compact&langs_count=10&theme=dark)
+
   <img align="left" alt="CPlusPlus" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
   <img align="left" alt="C" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
   <img align="left" alt="Docker" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
