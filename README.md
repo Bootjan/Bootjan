@@ -6,4 +6,4 @@
   <li>📫 How to reach me: <a href="mailto:bote.schaafsma@gmail.com">bote.schaafsma@gmail.com</li>
 </ul>
 <h2>📚Languages and Technologies</h2>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bootjan&langs_count=10&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bootjan&layout=compact&langs_count=10&theme=tokyonight)
