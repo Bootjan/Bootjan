@@ -1,3 +1,4 @@
+  <!-- 
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Bote Schaafsma</h1>
 <h2>🐎A Few Quick Facts</h2>
 <ul>
@@ -6,5 +7,6 @@
   <li>📫 How to reach me: <a href="mailto:bote.schaafsma@gmail.com">bote.schaafsma@gmail.com</li>
 </ul>
 <h2>📚Languages and Technologies</h2>
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bootjan&layout=compact&langs_count=10&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bootjan&layout=compact&langs_count=10&theme=dark)
