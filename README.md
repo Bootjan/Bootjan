@@ -10,7 +10,6 @@
 <h2>📚Languages and Technologies</h2>
 <!--   <img align="left" alt="Rust" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg"/> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bootjan&layout=compact)
 
 <!-- Optionally, you can customize the stats further -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bootjan&langs_count=10&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bootjan&langs_count=10&layout=compact&theme=tokyonight)
