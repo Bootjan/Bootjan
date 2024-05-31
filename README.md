@@ -7,3 +7,4 @@
 </ul>
 <h2>📚Languages and Technologies</h2>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bootjan&layout=compact&langs_count=10&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bootjan&layout=compact&langs_count=10&theme=dark)
